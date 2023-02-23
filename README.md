@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/62499813/220869839-36595175-d11e-4fa7-b762-38d4a8519ac9.png)
+
+
 # MyTicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
@@ -22,6 +25,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Further help and info
 
+- `ng g service-worker` to add progressive web app pwa service into your project manually - able to play while offline
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
