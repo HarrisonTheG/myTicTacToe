@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angulartictactoe-bbca6": {
+      "hosting": {
+        "myTicTacToe": [
+          "angulartictactoe-bbca6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angulartictactoe-bbca6"
+  }
+}
